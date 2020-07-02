@@ -1,0 +1,18 @@
+[
+  {
+    "projectUrl": "https://discord.gg/ARcwsJr",
+    "provider": "ShadowRS",
+    "name": "Staking hider",
+    "description": "suka blyat",
+    "id": "entityhiderextended-plugin",
+    "releases": [
+      {
+        "date": "2020-05-15",
+        "sha512sum": "a0fb60a1f3f42dbee0c236629a7cf59296ec518425e3ed169d417c9500d85560ba832c30e09ad9af4f9b0d2fdb30d994e4fb4c31a25b2accc1cccb71aab6dae3",
+        "version": "0.0.2",
+        "url": "https://github.com/xKylee/plugins-release/blob/master/release/entityhiderextended-0.0.2.jar?raw=true",
+        "requires": "0.0.2"
+      }
+    ]
+  }
+]
