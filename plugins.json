@@ -8,7 +8,7 @@
     "releases": [
       {
         "date": "2020-07-02",
-        "sha512sum": "938825487dd658c38a6a8a11798e1c16a68c0d168567fb737a7b8061d5f05480239becfe6a04211092fccae2c0bdf8e5d4be26c2ae9141009da9e098c9a24a30",
+        "sha512sum": "fa9f9c915ab1ddc881634cda44189aa9c9d888cffce19a9b78e4132a7fbee803f4cc5ffcf48c4c7636226525667d9237861f2985e80acc9183df7c5adaf59e4f",
         "version": "0.0.1",
         "url": "https://github.com/Shadowrs/oprs-shadowrs-plugins/blob/master/release/entityhiderextended-0.0.1.jar?raw=true",
         "requires": "0.0.1"
@@ -24,7 +24,7 @@
     "releases": [
       {
         "date": "2020-07-02",
-        "sha512sum": "775D07C625B7B304B3295E0D33AB46745016924C8278798AEF6162916888565A81D587C12F659A5C10E9CB9DA6A9711B7EB4D437EB1031FCA0E71EA0DCEFE02A",
+        "sha512sum": "bc51f7241fe52e4db4fd914cfefbf99c7fba35f591c297fb671e9906dc961f10798c2812c033578c62a669489ca4f6bf25734bd416e3c7c51a3df0eeecfdbfe2",
         "version": "0.0.1",
         "url": "https://github.com/shadowrs/oprs-shadowrs-plugins/blob/master/release/stakingodds-0.0.1.jar?raw=true",
         "requires": "0.0.1"
