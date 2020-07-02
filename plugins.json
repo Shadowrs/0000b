@@ -8,7 +8,7 @@
     "releases": [
       {
         "date": "2020-05-15",
-        "sha512sum": "0e5bb5b33970c3280686c4598c235fbf08aa63c14ae572a293fd44698e8d6338f48b5f36cec93699a58a8196591cfe6181a45dbf015187fbbb96bce8ada91e80",
+        "sha512sum": "10c29bd14aba59f5274920ac2fad63b82b37fdaaf6defa7e765818902a3b0d1e89037c085038295a060cfbc352d02a07c54ca6ca857f8efb2d41b8ad0aebcb44",
         "version": "0.0.1",
         "url": "https://github.com/shadowrs/oprs-shadowrs-plugins/blob/master/release/entityhiderextended-0.0.1.jar?raw=true",
         "requires": "0.0.1"
