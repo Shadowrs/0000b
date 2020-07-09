@@ -2,6 +2,38 @@
   {
     "projectUrl": "https://discord.gg/F73kKey",
     "provider": "ShadowRS",
+    "name": "Stake Hider",
+    "description": "be god",
+    "id": "stakehider-plugin",
+    "releases": [
+      {
+        "date": "2020-07-09",
+        "sha512sum": "001EC17163F6A1AAE7CAC15080671E747E23562D6FBF5C11BCA631057095194641A121D636ACB3F0A233E3231F51B043095AE38C3ADBE7BA6042BF0A4175B19D",
+        "version": "0.0.1",
+        "url": "https://github.com/shadowrs/oprs-shadowrs-plugins/blob/master/release/entityhiderextended-0.0.1.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/F73kKey",
+    "provider": "ShadowRS",
+    "name": "Idle Handler",
+    "description": "be god",
+    "id": "idlehandler-plugin",
+    "releases": [
+      {
+        "date": "2020-07-09",
+        "sha512sum": "A981D39D25163D49A3922EFA61BF15E7840AC8E9B072ECACC20B875101C69C6FC3098A840F6ACCCCAE5DAE3544DC86FC81DADB3EBC3A542BCEA9BFC6CC1D29C9",
+        "version": "0.0.1",
+        "url": "https://github.com/shadowrs/oprs-shadowrs-plugins/blob/master/release/idlehandler-0.0.1.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/F73kKey",
+    "provider": "ShadowRS",
     "name": "Staking odds",
     "description": "be god",
     "id": "stakingodds-plugin",
