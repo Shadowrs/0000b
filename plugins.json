@@ -1,22 +1,6 @@
 [
   {
-    "projectUrl": "https://discord.gg/ARcwsJr",
-    "provider": "ShadowRS",
-    "name": "Stake Hider",
-    "description": "be god",
-    "id": "stakehider-plugin",
-    "releases": [
-      {
-        "date": "2020-07-02",
-        "sha512sum": "27a39f0832cec8c6999a876923098015ef0eafbf87704bf21e5bee2ff02a131927ecc5c09d481d2db44437c009c6954683edde23c25e4eb390c95ee4424e15c9",
-        "version": "0.0.1",
-        "url": "https://github.com/Shadowrs/oprs-shadowrs-plugins/blob/master/release/entityhiderextended-0.0.1.jar?raw=true",
-        "requires": "0.0.1"
-      }
-    ]
-  },
-  {
-    "projectUrl": "https://discord.gg/ARcwsJr",
+    "projectUrl": "https://discord.gg/F73kKey",
     "provider": "ShadowRS",
     "name": "Staking odds",
     "description": "be god",
@@ -24,7 +8,7 @@
     "releases": [
       {
         "date": "2020-07-02",
-        "sha512sum": "062dc03560c8369cab63ad918035215542bfcbf1a61c254aa8d32587440cf9e4ebd81c576d9381828d7b9480a05234370c75f317b01c8e7f5ee2e29b300bc423",
+        "sha512sum": "8b5b083647dcfa2a03a2535040595c21fa2ce10e596ad88069c6a0c866bf26fae1726f27c327ea334ab509d53e8d2a873d586ad6699548e6cfc710bc98d2a499",
         "version": "0.0.1",
         "url": "https://github.com/shadowrs/oprs-shadowrs-plugins/blob/master/release/stakingodds-0.0.1.jar?raw=true",
         "requires": "0.0.1"
