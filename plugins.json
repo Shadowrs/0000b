@@ -24,7 +24,7 @@
     "releases": [
       {
         "date": "2020-07-02",
-        "sha512sum": "37f58163d2f06cdfd49fb84db2d91fd52ec27015158b8dee777c737469e280a110824f7c87bf4e07136edd2eddb674e03dd08b2efb4e93c7165ef88013965a43",
+        "sha512sum": "dbb9c7194bd3b28f664cb20526a8eca54f5b05035a8211a97600f662877406d6fa624a3c2dd01202b563381b6f8e2688f818f46ff67c2fa8f1986d9adbe8f4c3",
         "version": "0.0.1",
         "url": "https://github.com/shadowrs/oprs-shadowrs-plugins/blob/master/release/stakingodds-0.0.1.jar?raw=true",
         "requires": "0.0.1"
