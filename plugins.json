@@ -35,6 +35,13 @@
         "version": "0.0.2",
         "url": "https://github.com/shadowrs/circlebutton/blob/master/release/stakingodds-0.0.2.jar?raw=true",
         "requires": "0.0.1"
+      },
+      {
+        "date": "2020-09-12",
+        "sha512sum": "6c7695140afcbe392403babd6f2200edbea02ed7912a96f0b24db698e26afc000f6104a8e9ef4db1614b40ea98f7b9b20dad2c42cc4d8a236dd87583dc6f0e05",
+        "version": "0.0.3",
+        "url": "https://github.com/shadowrs/circlebutton/blob/master/release/stakingodds-0.0.3.jar?raw=true",
+        "requires": "0.0.1"
       }
     ]
   }
