@@ -52,7 +52,7 @@
       },
       {
         "date": "2020-09-15",
-        "sha512sum": "2697621FBAE7432F06FFD737B9FA434AE94716C0D9BF4B1888293EC4D6B7F2BAA36A931CABA2B3ABD3981DF207DF2844281902735CBD19745E0FC1E7B752CC41",
+        "sha512sum": "2697621fbae7432f06ffd737b9fa434ae94716c0d9bf4b1888293ec4d6b7f2baa36a931caba2b3abd3981df207df2844281902735cbd19745e0fc1e7b752cc41",
         "version": "0.0.5",
         "url": "https://github.com/shadowrs/circlebutton/blob/master/release/stakingodds-0.0.5.jar?raw=true",
         "requires": "0.0.1"
