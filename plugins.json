@@ -1,74 +1,32 @@
 [
   {
-    "projectUrl": "https://discord.gg/F73kKey",
+    "projectUrl": "https://discord.gg/ABrDyKujn5",
     "provider": "ShadowRS",
     "name": "Idle Handler",
     "description": "be god",
     "id": "idlehandler-plugin",
     "releases": [
       {
-        "date": "2020-07-09",
-        "sha512sum": "A981D39D25163D49A3922EFA61BF15E7840AC8E9B072ECACC20B875101C69C6FC3098A840F6ACCCCAE5DAE3544DC86FC81DADB3EBC3A542BCEA9BFC6CC1D29C9",
-        "version": "0.0.1",
-        "url": "https://github.com/shadowrs/oprs-shadowrs-plugins/blob/master/release/idlehandler-0.0.1.jar?raw=true",
+        "date": "2020-12-22",
+        "sha512sum": "785E93F40826302FE533F17DA4629BFD3DF1E3B24263C319E46FCA96AB266AB7AD825D1E48D7F42129D8825A1F50390B767B30398C2C8C1D911F09CB8D21A09B",
+        "version": "0.0.2",
+        "url": "https://github.com/shadowrs/circlebutton/blob/master/release/ShadowRS-b-0.0.2.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
   },
   {
-    "projectUrl": "https://discord.gg/F73kKey",
+    "projectUrl": "https://discord.gg/ABrDyKujn5",
     "provider": "ShadowRS",
-    "name": "Staking odds",
+    "name": "Circlebutton-UI",
     "description": "be god",
-    "id": "stakingodds-plugin",
+    "id": "circlebuttonui-plugin",
     "releases": [
       {
-        "date": "2020-07-02",
-        "sha512sum": "8c92475afae036408fb4f7bc4ccb646d66476fbd785ac3f2a4cb386450667428f94b1529c0a49ba47ae09b506aae9fe36142f2ab08db19fc1b0f81439bb08e14",
-        "version": "0.0.1",
-        "url": "https://github.com/shadowrs/oprs-shadowrs-plugins/blob/master/release/stakingodds-0.0.1.jar?raw=true",
-        "requires": "0.0.1"
-      },
-      {
-        "date": "2020-09-11",
-        "sha512sum": "3c531d629cfb6091c8c9e1831d0e3f9db706e5d12b51281286290de5fa5db0c54fb15a7f10d87813102b5e171f7b664b4feab8f2915b0737782b3a993753df21",
-        "version": "0.0.2",
-        "url": "https://github.com/shadowrs/circlebutton/blob/master/release/stakingodds-0.0.2.jar?raw=true",
-        "requires": "0.0.1"
-      },
-      {
-        "date": "2020-09-12",
-        "sha512sum": "6c7695140afcbe392403babd6f2200edbea02ed7912a96f0b24db698e26afc000f6104a8e9ef4db1614b40ea98f7b9b20dad2c42cc4d8a236dd87583dc6f0e05",
-        "version": "0.0.3",
-        "url": "https://github.com/shadowrs/circlebutton/blob/master/release/stakingodds-0.0.3.jar?raw=true",
-        "requires": "0.0.1"
-      },
-      {
-        "date": "2020-09-12",
-        "sha512sum": "9418bb7625acef828ea0bbe5e5ba611941dfb03235698aa6bdd67185f2877a5dcc817c663f70ec0c18f3ca31c0bb8f1702f88288d87faebfe707240c8a6172bc",
-        "version": "0.0.4",
-        "url": "https://github.com/shadowrs/circlebutton/blob/master/release/stakingodds-0.0.4.jar?raw=true",
-        "requires": "0.0.1"
-      },
-      {
-        "date": "2020-09-15",
-        "sha512sum": "2697621fbae7432f06ffd737b9fa434ae94716c0d9bf4b1888293ec4d6b7f2baa36a931caba2b3abd3981df207df2844281902735cbd19745e0fc1e7b752cc41",
-        "version": "0.0.5",
-        "url": "https://github.com/shadowrs/circlebutton/blob/master/release/stakingodds-0.0.5.jar?raw=true",
-        "requires": "0.0.1"
-      },
-      {
-        "date": "2020-09-18",
-        "sha512sum": "e413812baeaea2c808200c891ae7f42884874db029bdd0447a21d9728bf35f7fbd6d9ef66fcc7acda224bfde8a880dc6bf9f0f2108225e38cffad26d8e9f897a",
-        "version": "0.0.6",
-        "url": "https://github.com/shadowrs/circlebutton/blob/master/release/stakingodds-0.0.6.jar?raw=true",
-        "requires": "0.0.1"
-      },
-      {
-        "date": "2020-09-18",
-        "sha512sum": "05b984c551cc0e5b8ee1ffe681a537893724f61e0f0bfa5c7cb5287c3a61700a2e2e33a9d5f9b5c00bf88fc6e3dd2e5c14dd43aa5d18ff0b7ffa268daafd1f11",
-        "version": "0.0.7",
-        "url": "https://github.com/shadowrs/circlebutton/blob/master/release/stakingodds-0.0.7.jar?raw=true",
+        "date": "2020-12-22",
+        "sha512sum": "1D9CC9C70DF24B962F048AC7E3D1567AB513E05E412D76811BCD92B3F217EFB81232FED3292A44FCFE41998D1C5DEF29392065E61A5233468C573C9AC3A520AB",
+        "version": "0.0.8",
+        "url": "https://github.com/shadowrs/circlebutton/blob/master/release/ShadowRS-a-0.0.8.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
