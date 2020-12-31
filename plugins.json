@@ -1,1 +1,34 @@
-[{"projectUrl":"https://discord.gg/ABrDyKujn5","provider":"ShadowRS","name":"Idle Handler","description":"be god","id":"idlehandler-plugin","releases":[{"date":"2020-12-31","sha512sum":"785E93F40826302FE533F17DA4629BFD3DF1E3B24263C319E46FCA96AB266AB7AD825D1E48D7F42129D8825A1F50390B767B30398C2C8C1D911F09CB8D21A09B","version":"0.0.2","url":"https://github.com/shadowrs/circlebutton/blob/master/release/ShadowRS-b-0.0.2.jar?raw=true","requires":"0.0.1"}]}, {"projectUrl":"https://discord.gg/ABrDyKujn5","provider":"ShadowRS","name":"Circlebutton-UI","description":"be god","id":"circlebuttonui-plugin","releases":[{"date":"2020-12-31","sha512sum":"B21FBABBBFE1181185471A878DA161F028671A3BE856995F408A211D6702B6702DC106655AEE9F8CEA94118860B4DFC5A178CA5872DA6C40AA8C9C37E7853A53","version":"0.0.10","url":"https://github.com/shadowrs/circlebutton/blob/master/release/ShadowRS-a-0.0.10.jar?raw=true","requires":"0.0.1"}]}]
+[
+  {
+    "projectUrl": "https://discord.gg/ABrDyKujn5",
+    "provider": "ShadowRS",
+    "name": "Idle Handler",
+    "description": "be god",
+    "id": "idlehandler-plugin",
+    "releases": [
+      {
+        "date": "2020-12-31",
+        "sha512sum": "785E93F40826302FE533F17DA4629BFD3DF1E3B24263C319E46FCA96AB266AB7AD825D1E48D7F42129D8825A1F50390B767B30398C2C8C1D911F09CB8D21A09B",
+        "version": "0.0.2",
+        "url": "https://github.com/shadowrs/circlebutton/blob/master/release/ShadowRS-b-0.0.2.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/ABrDyKujn5",
+    "provider": "ShadowRS",
+    "name": "Circlebutton-UI",
+    "description": "be god",
+    "id": "circlebuttonui-plugin",
+    "releases": [
+      {
+        "date": "2020-12-31",
+        "sha512sum": "D9EB401AC42587D81F4C7AAE2B59A3D996266C9796625EBF8DA26FA11C18E8E953D70487C944E55DDB0CCB940C44E556970CB4DFFAF1C1443A9A44B12947DB39",
+        "version": "0.0.11",
+        "url": "https://github.com/shadowrs/circlebutton/blob/master/release/ShadowRS-a-0.0.11.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  }
+]
