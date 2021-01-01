@@ -24,9 +24,9 @@
     "releases": [
       {
         "date": "2021-01-01",
-        "sha512sum": "C327025D820072FF3AE84D09F6ED30BD25878C4A5989F2A6209082829805CABA46433CDA61ACEB917EDE5864BACA7917BE7E43DA22EA3B42DED0EA0F7DAEC208",
-        "version": "0.0.12",
-        "url": "https://github.com/shadowrs/circlebutton/blob/master/release/ShadowRS-a-0.0.12.jar?raw=true",
+        "sha512sum": "28C3F73286D7E63FF4AECB817AB0F9FBE5E67EFAF0791FA2F1481DEC346ED909907BA77EE91F4997C13CF807FD3F15768E7B09067C7266C5D9895473CDF98370",
+        "version": "0.0.13",
+        "url": "https://github.com/shadowrs/circlebutton/blob/master/release/ShadowRS-a-0.0.13.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
